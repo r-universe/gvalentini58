@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bionetdata"]
 	path = bionetdata
 	url = https://github.com/cran/bionetdata
-	shallow = true
-	registered = true
 [submodule "NetPreProc"]
 	path = NetPreProc
 	url = https://github.com/cran/NetPreProc
-	shallow = true
-	registered = true
 [submodule "PerfMeas"]
 	path = PerfMeas
 	url = https://github.com/cran/PerfMeas
-	shallow = true
-	registered = true
 [submodule "RANKS"]
 	path = RANKS
 	url = https://github.com/cran/RANKS
-	shallow = true
-	registered = true
