@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bionetdata"]
-	path = bionetdata
-	url = https://github.com/cran/bionetdata
 [submodule "NetPreProc"]
 	path = NetPreProc
 	url = https://github.com/cran/NetPreProc
@@ -14,3 +11,6 @@
 [submodule "RANKS"]
 	path = RANKS
 	url = https://github.com/cran/RANKS
+[submodule "bionetdata"]
+	path = bionetdata
+	url = https://github.com/cran/bionetdata
